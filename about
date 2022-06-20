@@ -74,9 +74,9 @@
         </a>
         <div class="menu-container"><a href="/" class="menu-item w-inline-block"><img src="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/5fd51b0d34b9d09283ff00d2_House.svg" loading="lazy" width="24" height="24" alt="" class="menu-item-icon"/><div class="menu-item-text">Home</div></a>
             <a
-                href="/about.html" aria-current="page" class="menu-item w-inline-block w--current"><img src="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/5fd51b1353c1a180dbc8beb4_User.svg" loading="lazy" width="24" height="24" alt="" class="menu-item-icon" />
+                href="/about" aria-current="page" class="menu-item w-inline-block w--current"><img src="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/5fd51b1353c1a180dbc8beb4_User.svg" loading="lazy" width="24" height="24" alt="" class="menu-item-icon" />
                 <div class="menu-item-text">About</div>
-                </a><a href="/contact.html" class="menu-item w-inline-block"><img src="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/5fd51b112a8c8af4f99d7507_EnvelopeSimple.svg" loading="lazy" width="24" height="24" alt="" class="menu-item-icon"/><div class="menu-item-text">Contact</div></a></div>
+                </a><a href="/contact" class="menu-item w-inline-block"><img src="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/5fd51b112a8c8af4f99d7507_EnvelopeSimple.svg" loading="lazy" width="24" height="24" alt="" class="menu-item-icon"/><div class="menu-item-text">Contact</div></a></div>
     </div>
     <div class="full-width-section">
         <div class="about-cloud-container"><img src="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/6101e711cc447aa6793892e8_Olive%20Photo.png" loading="eager" width="233" data-w-id="75ace4df-5ec6-8ef2-5c94-adab473822f3" srcset="https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/6101e711cc447aa6793892e8_Olive%20Photo-p-500.png 500w, https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/6101e711cc447aa6793892e8_Olive%20Photo-p-800.png 800w, https://uploads-ssl.webflow.com/5e1689facb9d5168c0dcbe0b/6101e711cc447aa6793892e8_Olive%20Photo.png 849w"
